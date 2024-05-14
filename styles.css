@@ -1,3 +1,5 @@
 h1 {
-  color: rgb(255,0,255);
+  color: black;
+  text-align: center;
+  font: 12px, "Times New Roman", Times, Serif;
 }
